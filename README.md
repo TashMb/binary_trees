@@ -1,0 +1,1 @@
+In this project, I look at the details,advantages and disadvantages of using trees as data structures.I also look at how to qualify trees as well as traverse them.Throughout the project, I implement binary,binary search, AVL and Max binary Heap trees
